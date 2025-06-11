@@ -1,0 +1,15 @@
+body {
+  background-color: #e5b515;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  margin-top: 50px;
+}
+
+h1 {
+  color: #333;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+}
